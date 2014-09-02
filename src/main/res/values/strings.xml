@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JobQueue Demo</string>
+    <string name="action_about">About</string>
+    <string name="intro_string">Press the button for a job!</string>
+    <string name="button_string">Ok!</string>
+    <string name="button_inactive">Hold on..</string>
+    <string name="completed_string">The job finished in %1$d seconds</string>
+    <string name="about_string">Incredibly simple app to demonstrate a very basic usage of Path\'s JobQueue and greenrobot\'s EventBus\nBy Cody Huzarski</string>
+
+
+</resources>
